@@ -8,6 +8,7 @@ body{
    background-size: cover;
    width: 100%;
    height: 700px;
+   margin-bottom:100px;
 }
 
 .header-option h1{
@@ -33,3 +34,83 @@ body{
    border-radius: 0px 40px 0px 40px;
 }
 
+.donate-today-content{
+   text-align:center;
+   margin-bottom:100px;
+   
+}
+.donate-today-content h1{
+   font-size: 50px;
+}
+.donate-today-paragraph{
+   margin: 0px 300px 50px 300px;
+}
+.donate-amount{
+   display:inline;
+   background-color: grey;
+   padding: 25px 20px;
+   margin-left: 10px;
+   font-weight:700;
+   color: lavenderblush;
+   border-radius: 0px 30px 0px 30px;
+   margin-bottom:50px;
+}
+.amount-selected{
+   border:2px solid red;
+   background-color: rgb(241, 69, 69);
+}
+
+.another-amount-click{
+   display: block;
+   border:none;
+   background-color: transparent;
+   resize: none;
+   outline: none;
+   margin:100px 500px 0px 560px;
+}
+hr{
+   width:50%;
+   margin-bottom:60px;
+}
+
+.second-donate-button{
+   background-color: rgb(228, 2, 2);
+   padding: 15px;
+   border-radius: 10px;
+   text-decoration:none;
+   font-weight:800;
+   color:lawngreen;
+   margin-bottom: 100px;
+}
+
+.donate-plan{
+   text-align: center;
+}
+.donate-plan-paragraph{
+   margin: 0px 400px 0px 400px;
+}
+
+.donate-plan h1{
+   font-size:50px;
+   color: violet;
+}
+.food-a-family{
+   width:300px;
+   height:300px;
+   background-color: rgb(191, 253, 253);
+   border-radius: 10px;
+}
+.food-a-family img{
+   text-align: left;
+   margin:30px 240px 0px 20px;
+}
+
+.food-a-family h3{
+   text-align: left;
+   margin-left:20px;
+}
+
+.food-a-family p{
+   text-align:left;
+   padding:0px 20px 0px 20px;
+}
