@@ -1,7 +1,7 @@
 body{
    font-family: 'Lato', sans-serif;
 }
-
+/*header part style*/
 .header-option{
    background-image: url('images/donation9.jpg');
    background-repeat: no-repeat;
@@ -33,7 +33,7 @@ body{
    font-weight: 900;
    border-radius: 0px 40px 0px 40px;
 }
-
+/*donate content*/
 .donate-today-content{
    text-align:center;
    margin-bottom:100px;
@@ -82,7 +82,7 @@ hr{
    color:lawngreen;
    margin-bottom: 100px;
 }
-
+/*donate plan*/
 .donate-plan{
    text-align: center;
 }
@@ -94,7 +94,7 @@ hr{
    font-size:50px;
    color: violet;
 }
-
+/*donate item style*/
 .all-something{
    width:100%;
 }
@@ -175,6 +175,7 @@ hr{
    margin-left:12%;
    margin-right:12%;
 }
+/*updates donate*/
 .updates{
    float:left;
    margin-left:520px;
@@ -189,7 +190,7 @@ hr{
    color: darkkhaki;
    margin-left:px;
 }
-
+/*updates form style*/
 .updates-form{
    width:60%;
    height:100px;
@@ -216,7 +217,7 @@ hr{
   color:navy;
   font-weight:800;
 }
-
+/*footer part*/
 .finishing-part{
    float:left;
    width:100%;
